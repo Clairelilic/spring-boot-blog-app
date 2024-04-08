@@ -31,10 +31,10 @@ The app also uses postman to test the API and utilize DTOs to transmit data betw
 ### 1.Posts Management
     Create, Read, Update and Delete Posts. Provide Pagination, Sorting and Filter support
 
-### 2.Comments Management for Post(one to many mapping)
+### 2.Comments Management for Post (one to many mapping)
     Create, Read, Update and Delete Comments for Blog Posts
 
-### 3.Category Management
+### 3.Category Management (one to many mapping)
     Create, Read, Update and Delete Category
 
 ### 4.Authentication and Authorization
