@@ -29,16 +29,16 @@ The app also uses postman to test the API and utilize DTOs to transmit data betw
 ## High Level Requirements for Blog App:
 
 ### 1.Posts Management
-    *Create, Read, Update and Delete Posts. Provide Pagination, Sorting and Filter support*
+    Create, Read, Update and Delete Posts. Provide Pagination, Sorting and Filter support
 
 ### 2.Comments Management for Post(one to many mapping)
-    *Create, Read, Update and Delete Comments for Blog Posts*
+    Create, Read, Update and Delete Comments for Blog Posts
 
 ### 3.Category Management
-    *Create, Read, Update and Delete Category*
+    Create, Read, Update and Delete Category
 
 ### 4.Authentication and Authorization
-    *Register, Login and Security*
+    Register, Login and Security
 - 4.1 Secure REST APIs using Database Authentication
 - 4.2 Build Login Rest API and SignUp REST API
 - 4.3 Use JWT token based Authentication to Secure the REST API
